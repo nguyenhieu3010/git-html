@@ -1,0 +1,6 @@
+hello CO224G1
+GIT INIT
+ add<ten file>
+ git commit-m"hello git"
+ git remote
+ git push origin master
